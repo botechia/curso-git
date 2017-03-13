@@ -1,4 +1,4 @@
 # curso-git
-Cursos Alura
-Git: Controle e compartilhe seu código
-Este diretório é de teste temporário.
+Cursos Alura<br>
+Git: Controle e compartilhe seu código<br>
+Este diretório é para teste e será temporário.
