@@ -47,3 +47,15 @@ git push apelidoDoRepositorioRemoto
 
 //Copia o repositório remoto para a pasta local
 git clone
+
+//Consulta branch's existentes
+git branch
+
+//Cria novas branch's
+git branch nomeDaBranch
+
+//Troca de branch
+git checkout nomeDaBranchParaQualQuerIr
+
+//Visualiza os arquivos no git
+git ls-files
